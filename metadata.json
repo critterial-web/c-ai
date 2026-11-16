@@ -1,0 +1,6 @@
+{
+  "name": "LumbungNusa",
+  "description": "Platform edukasi interaktif dan laboratorium simulasi ketahanan pangan SDG 2: Tanpa Kelaparan untuk inovasi pelajar SMA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
